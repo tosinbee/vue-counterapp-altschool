@@ -1,5 +1,7 @@
 # vue-counterapp-altschool
 
+# This is the link to my counter app [https://vue-counterapp-altschool.web.app/ ](https://vue-counterapp-altschool.web.app/)
+
 ## Project setup
 ```
 npm install
